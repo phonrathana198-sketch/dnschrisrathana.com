@@ -11,7 +11,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url('...images/dompec.png') no-repeat; /* Change path */
+    background-image: url('.../images/dompec.png') no-repeat; /* Change path */
     background-size: cover;       /* Cover full screen */
     background-position: center;  /* Center the image */
     background-repeat: no-repeat; /* Do not repeat */
