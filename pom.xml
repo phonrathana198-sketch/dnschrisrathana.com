@@ -18,7 +18,7 @@
     <maven.compiler.target>17</maven.compiler.target>
   </properties>
 
-  <!-- Dependencies (shopflag.com) -->
+  <!-- Dependencies (com.shopflag-apk) -->
   <dependencies>
     <!-- shopflag.com: JUnit -->
     <dependency>
